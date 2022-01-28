@@ -7,3 +7,5 @@ print('Howzit World! This is lap 2')
 
 def foo(x):
   return x
+
+print('Goodbye')
